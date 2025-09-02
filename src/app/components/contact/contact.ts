@@ -26,14 +26,14 @@ export class Contact {
       this.isSubmitting = true;
       
       setTimeout(() => {
-        console.log('Formulario enviado:', this.contactForm.value);
+        console.log('Form sent:', this.contactForm.value);
         
         
         
         this.isSubmitting = false;
         this.contactForm.reset();
-        
-        alert('¡Mensaje enviado correctamente! Te responderé pronto.');
+
+        alert('Message sent successfully! I will respond soon.');
       }, 2000);
     } else {
       this.contactForm.markAllAsTouched();

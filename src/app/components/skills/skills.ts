@@ -27,7 +27,7 @@ export class Skills {
         { name: 'Node.js',  icon: 'fab fa-node-js' },
         { name: 'C#', icon: 'fab fa-microsoft' },
         { name: 'Java', icon: 'fab fa-java' },
-        { name: 'MongoDB', icon: 'fas fa-database' },
+        { name: 'Springboot', icon: 'fas fa-database' },
         { name: 'MySQL', icon: 'fas fa-database' }
       ]
     },
@@ -51,13 +51,13 @@ export class Skills {
   ];
 
   softSkills = [
-    { name: 'Trabajo en Equipo', icon: 'fas fa-users' },
-    { name: 'Comunicación Efectiva', icon: 'fas fa-comments' },
-    { name: 'Resolución de Problemas', icon: 'fas fa-lightbulb' },
-    { name: 'Adaptabilidad', icon: 'fas fa-exchange-alt' },
-    { name: 'Pensamiento Crítico', icon: 'fas fa-brain' },
-    { name: 'Gestión del Tiempo', icon: 'fas fa-clock' },
-    { name: 'Liderazgo', icon: 'fas fa-crown' },
-    { name: 'Creatividad', icon: 'fas fa-palette' }
+    { name: 'Team work', icon: 'fas fa-users' },
+    { name: 'Effective Communication', icon: 'fas fa-comments' },
+    { name: 'Problem Solving', icon: 'fas fa-lightbulb' },
+    { name: 'Adaptability', icon: 'fas fa-exchange-alt' },
+    { name: 'Critical Thinking', icon: 'fas fa-brain' },
+    { name: 'Time Management', icon: 'fas fa-clock' },
+    { name: 'Leadership', icon: 'fas fa-crown' },
+    { name: 'Creativity', icon: 'fas fa-palette' }
   ];
 }

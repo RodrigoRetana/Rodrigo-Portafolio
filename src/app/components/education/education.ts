@@ -10,13 +10,13 @@ import { CommonModule } from '@angular/common';
 export class Education {
   educationList = [
     {
-      degree: 'Bachillerato en Ingeniería de Software',
+      degree: 'Bachelor\'s Degree in Software Engineering',
       institution: 'Universidad Cenfotec',
-      period: '2022 - Presente',
+      period: '2022 - Present',
       location: 'San Pedro - Costa Rica',
       icon: 'fas fa-graduation-cap',
-      description: 'Formación integral en desarrollo de software, algoritmos, estructuras de datos y metodologías de desarrollo web. Enfoque en tecnologías modernas y buenas prácticas de programación.',
-      skills: ['Java', 'C++', 'Python', 'MySQL', 'Metodologías Ágiles', 'Análisis de Sistemas']
+      description: 'Comprehensive training in software development, algorithms, data structures, and web development methodologies. Focus on modern technologies and best programming practices.',
+      skills: ['Java', 'C++', 'Python', 'MySQL', 'Agile Methodologies', 'Systems Analysis']
     }
   ];
 }

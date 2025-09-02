@@ -26,6 +26,6 @@ export class DownloadCv {
   }
   
   private showDownloadMessage() {
-    alert('¡CV descargado correctamente! Gracias por tu interés.');
+    alert('CV downloaded successfully! Thank you for your interest.');
   }
 }

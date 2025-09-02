@@ -12,29 +12,29 @@ export class Experience {
     {
       position: 'Bilingual Voice Agent',
       company: 'TransUnion',
-      period: 'Noviembre 2024 - Presente',
-      location: 'Remoto',
+      period: 'November 2024 - Present',
+      location: 'Remote',
       icon: 'fas fa-laptop-code',
-      description: 'Ayudando a consumidores en Estados Unidos a resolver problemas relacionados con su crédito, accediendo a sus servicios en línea o con problemas acerca de sus informes crediticios.',
+      description: 'Helping consumers in the United States resolve issues related to their credit, accessing their online services, or problems with their credit reports.',
       technologies: ['Salesforce', 'Microsoft Teams']
     },
     {
       position: 'Global Customer Service Agent',
       company: 'Equifax',
-      period: 'Julio 2024 - Octubre 2024',
+      period: 'July 2024 - October 2024',
       location: 'Heredia - Costa Rica',
       icon: 'fas fa-code',
-      description: 'Ayudando a consumidores en Estados Unidos a resolver problemas relacionados con su crédito, accediendo a sus servicios en línea o con problemas acerca de sus informes crediticios.',
-      technologies: ['Salesforce', 'Google workspace', 'CRM de IBM']
+      description: 'Helping consumers in the United States resolve issues related to their credit, accessing their online services, or problems with their credit reports.',
+      technologies: ['Salesforce', 'Google Workspace', 'IBM CRM']
     },
     {
       position: 'Back office Agent',
       company: 'United Collection Bureau',
-      period: 'Abril 2021 - Julio 2024',
-      location: 'Heredia - Costa Rica - Remoto',
+      period: 'April 2021 - July 2024',
+      location: 'Heredia - Costa Rica - Remote',
       icon: 'fas fa-rocket',
-      description: 'Primer trabajando, ayudando al procesamiento de facturas médicas de pacientes en Estados Unidos, para hospitales como Spectrum Health, Souther Ohio Medical Center y Baptist Hospital.',
-      technologies: ['EPIC', 'Microsoft teams', 'Meditech', 'Availity']
+      description: 'First working, helping with the processing of medical bills for patients in the United States, for hospitals such as Spectrum Health, Southern Ohio Medical Center, and Baptist Hospital.',
+      technologies: ['EPIC', 'Microsoft Teams', 'Meditech', 'Availity']
     }
   ];
 }

@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
   styleUrl: './download-cv.scss'
 })
 export class DownloadCv {
-  lastUpdated = 'Julio 2025';
+  lastUpdated = 'February 2026';
   showPreviewModal = false;
   
   downloadCV() {

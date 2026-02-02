@@ -12,8 +12,8 @@ export class DownloadCv {
   
   downloadCV() {
     const link = document.createElement('a');
-    link.href = 'assets/documents/RodrigoRetanaCV.pdf';
-    link.download = 'RodrigoRetanaCV.pdf';
+    link.href = 'assets/documents/RodrigoRetanaSDCV.pdf';
+    link.download = 'RodrigoRetanaSDCV.pdf';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -22,7 +22,7 @@ export class DownloadCv {
   }
   
   previewCV() {
-    window.open('assets/documents/RodrigoRetanaCV.pdf', '_blank');
+    window.open('assets/documents/RodrigoRetanaSDCV.pdf', '_blank');
   }
   
   private showDownloadMessage() {

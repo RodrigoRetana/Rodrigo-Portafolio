@@ -12,7 +12,7 @@ export class Experience {
     {
       position: 'Bilingual Voice Agent',
       company: 'TransUnion',
-      period: 'November 2024 - Present',
+      period: 'November 2024 - February 2026',
       location: 'Remote',
       icon: 'fas fa-laptop-code',
       description: 'Helping consumers in the United States resolve issues related to their credit, accessing their online services, or problems with their credit reports.',
